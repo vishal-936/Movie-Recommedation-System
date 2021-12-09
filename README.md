@@ -7,3 +7,4 @@ This is a movie recommender. It suggest movie according to input given by user b
 ~ Build a UI using streamlit.<br>
 ~ Deployed using heroku.
 
+![Screenshot](https://github.com/vishal-936/Movie-Recommedation-System/blob/e304de907e5a742e1554592a6d1a6d1dd211b73d/Screenshot%20(79).png)
